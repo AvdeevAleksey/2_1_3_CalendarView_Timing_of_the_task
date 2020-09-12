@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">CalendarView «Сроки задачи»</string>
     <string name="btn_ok">Ок</string>
-    <string name="chooseStartDate">Дата-время старта задачи:</string>
-    <string name="chooseEndDate">Дата-время окончания задачи:</string>
+    <string name="chooseStartDate">Дата-время старта задачи:\t</string>
+    <string name="chooseEndDate">Дата-время окончания задачи:\t</string>
+    <string name="mistake">Ошибка</string>
+    <string name="gross_error">Даты не введены</string>
 </resources>
